@@ -51,8 +51,8 @@ This system is based on the **publish/subscribe (pub/sub) architecture**, which 
 
 ### **1️⃣ Clone the repository**  
 ```sh
-git clone https://github.com/cainacastro/sistema-de-troca-de-mensagens-instant-neas-grupo-j.git
-cd sistema-de-troca-de-mensagens-instant-neas-grupo-j
+git clone https://github.com/cainacastro/RabbitChat.git
+cd RabbitChat
 ```
 
 ### **2️⃣ Compile the project**
