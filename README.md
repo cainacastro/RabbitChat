@@ -53,4 +53,23 @@ This system is based on the **publish/subscribe (pub/sub) architecture**, which 
 ```sh
 git clone https://github.com/cainacastro/sistema-de-troca-de-mensagens-instant-neas-grupo-j.git
 cd sistema-de-troca-de-mensagens-instant-neas-grupo-j
+```
+
+### **2️⃣ Compile the project**
+```sh
+mvn compile assembly:single
+```
+
+### **3️⃣ Run the application**
+```sh
+java -jar target/Main.jar
+```
+
+---
+
+## 📂 Project Steps & Usage
+
+### For detailed configuration and usage instructions, please refer to the "etapas" folder in the repository.
+
+
 
