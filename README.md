@@ -62,7 +62,7 @@ mvn compile assembly:single
 
 ### **3️⃣ Run the application**
 ```sh
-java -jar target/Main.jar
+java -jar target/seu-projeto.jar
 ```
 
 ---
