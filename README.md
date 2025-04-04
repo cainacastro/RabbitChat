@@ -62,7 +62,7 @@ mvn compile assembly:single
 
 ### **3️⃣ Run the application**
 ```sh
-java -jar target/seu-projeto.jar
+java -jar target/ChatRabbitMQ-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
 ---
